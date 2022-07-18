@@ -1,0 +1,28 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Wall",
+            "-I./include",
+            "-o",
+            "src/main.o",
+            "src/main.c"
+        ],
+        "directory": "/home/alex/code/c/csvcat",
+        "file": "src/main.c"
+    },
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Wall",
+            "-I./include",
+            "-o",
+            "src/files.o",
+            "src/files.c"
+        ],
+        "directory": "/home/alex/code/c/csvcat",
+        "file": "src/files.c"
+    }
+]
